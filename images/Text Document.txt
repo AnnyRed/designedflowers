@@ -1,0 +1,44 @@
+[
+{
+"id": 1,
+"title": "Ніжна свіжість",
+"description": "троянди та лілії",
+"price": 445,
+"img": "https://s3-alpha-sig.figma.com/img/bbe2/00a4/340dd680e2a41662c2e82748807ce767?Expires=1707091200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SIMH2JYS0cRMFrYCnDvHSCazMcc~MyIBdc90mZPDOIOJZ7jwkYRwrOs0oXOGqUT56v6hI-16DZl4f4toNsyhHZ~3xKo3hVAZnqb2kCcJFskEGI-y-wsMRYX57gM6-BOJQpskl2PLPvaqCW2vlh1P4nX5P-Y3J5-W6666GELhdxGk04QzQFAi6PK2WKSxOjv2NTqnKlhdfT-VjJynq-S6VcvokHdGd~e9ucI5AlvZo8Lpi8BNVQih3sHZmC-3WZHlXuhR3ORffJ72hc-EVrU92~~EQn~Zlr1Ir9yq-EX3i~mGr50Hnf7wiq18CNcTNv5MpTER1gOrsqa8cNeQV9f4jA__"
+},
+{
+"id": 2,
+"title": "Сорбет",
+"description": "хризантеми та троянди",
+"price": 450,
+"img": "https://s3-alpha-sig.figma.com/img/b209/5704/5eee5f65e3935ead3fd61d0670aef2d4?Expires=1707091200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=GcCb080JdtutxZ4g1rXiYtmr-vbhR4RYmIdZbcXrlxGo9nfi3IA-KZbAB~kr0IKXqHi-eiStIus-wT9C2QcDqu39kfiVH34kakJ2MDceDYMatgJbs4og1OdAN07G8I4vgZCBXcfDWvz0DDrD6-o3r9DAIBSE5uZVha1uGDkF14LwW4F9aGMooCjiV1SJKM8AbFAUrjyTzRtUnokaFPzs-nvvSD8Iuk~UxKxZjLHIFGgdhHWDdNZrnnllxdXSdfSwP53Ve7CT67jdQ-kAd2JRAXSKK76p16e~eoo~H2K7mBUg8LAEdahdZukh9JSUMhQt1-NzB1WQG3iOiinDkR6Q4g__"
+},
+{
+"id": 3,
+"title": "Yellow Song",
+"description": "соняшники та солідаго",
+"price": 455,
+"img": "https://s3-alpha-sig.figma.com/img/cec6/1ea3/4af91d729ad0f169ae9f66d8a146ec5f?Expires=1707091200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HtftkmCjORJqh9na7QV9LgGmj1JOSRud3BtrXocB4fJDwOXq5iM3HexrSMF4lXJU~gkaOkh58SX2nFpUcK~GjPCgueu47WYAAho3T6NaPco5xTNpzCcxkWf7dVHOzQ-qTDI8pv~n5itBXtu3J5oHmwz6Gcy4JGN14S6se2PMXyEHoE5GRr45AgPaNn1Tn7YdK~9TwXKgl063Flhu4~d6mOWSIoPtB2eD3bxXcTxhr7hqA3fSe-QTUJR1Lsa8dGXzzj0IiKyFaXF5Cft9zHE83LpgX-Qk74V~8cXnY4xDteLHcdCEqPNN-M2wseZPUFpkpaYTpS3tClo903aPiY4C5g__"
+},
+{
+"id": 4,
+"title": "Персиковий нектар",
+"description": "лілії та троянди",
+"price": 455,
+"img": "https://s3-alpha-sig.figma.com/img/fa29/7a8c/ecb9e3ab7b419207c1e0cd362e81a766?Expires=1707091200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YwHPxQuWHhRlezhrQ3lyKOMeYYT6T0CMxDv9o7x3l5iBJ9Ye4hZ~VL5KuiKTbIhb32Rer25QuP6cYi-~KxJkxXDV2F-FTJVJT51wxjkINvdTkIViI28AQCZGkvlrvbW04hViPANp3XRSk5qt0Ti76zjcDEPlmRtiWIVk2tJIYwWBFQ0DFnmdXONUufeV5IQvzxjLu5092uiDy~pWtqmisFEgh-Fn6oBGbW3rItgWmCEXHUKFTrUn6AhBbh3DGydi-3Y5wIHHy~hUmeMWoh3QEs17TZ3tgbAHCJaC9NKMWqrC9Y4zIRytuFhfwDmPkI9kP6Id5bONPxIZEaWGcE0tpA__"
+},
+{
+"id": 5,
+"title": "Аврора",
+"description": "лілії та троянди",
+"price": 460,
+"img": "https://s3-alpha-sig.figma.com/img/8140/1e36/97d9bffbe82e20477e75088ddcbdcd75?Expires=1707091200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=b0w6v9OsFH0rQLAOf1LXV2558gc-tqVi5YwdZaWOENMW-~xmMIbDqksxTA0fEJ~XPBuMBzyPb7kj39eoY7AieZ3z4kVvVaasx5jwvSB8Ov52SJdaNDHiUhnUqS3X3SkZwCcnBu7R9e1gAfMi3zpVhIdAYNvSQy7Xp3WizimJN6V4U8dspYrOslSm~kd-7HQR4r0P2WTppeZ9~2rmUdeSiCMS2coU8O2wKvA9ibbw-2dGvLdkEXmdDljTnsDGtRU6Z4odDdjeWv~v40vfJFKE9uy4i5cPDZsp0U1kK6o1dTetHbtx7zGJ05~7xNIyDu8rAr7O6B2cpGoj3GRQI~-Esg__"
+},
+{
+"id": 6,
+"title": "Класика кохання",
+"description": "червоних троянд",
+"price": 460,
+"img": "https://s3-alpha-sig.figma.com/img/e1cb/0094/5a77b7d6d530a6a402585fb32ab4c749?Expires=1707091200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=jiMQmD1QoFN75p7AKil6EbVfQV4lK46LHmH5uFDswtP97-9vmm3n0vb29qhEhAuYeMabOCKRn82Ed8TucUy1BmEB90xZOsIJeC9DIxwTdXU67bCab74U6-UprDDBUeZpjlh~9CEyqj2ZOrJCXB3LvUfBuGSV7NOqQLA-sWjeAI7fJ9bu91VtNQtdEOJAh6PhKqlQS-a0qtAQcqFO81FXFg8lMePiQ12mHpLBgobqnDUJ8pkijShBP0NrfmkRQnRikOio45UzZiEmOlBdxv0ay8yBrqJfiU~DpC4PT~X1267UfNVZn2sAo7uNNq0gTyHCWBNRiANsYKgyFltzbmQGVg__"
+}
+]
